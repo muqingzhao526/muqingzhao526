@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Michael Zhao 👋
 
-<!--
-**muqingzhao526/muqingzhao526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.S. Data Science student at NYU with a background in applied mathematics, statistics, and software engineering.
 
-Here are some ideas to get you started:
+I'm currently interested in:
+- Machine Learning Engineering
+- AI Engineering
+- Deep Learning
+- LLM and Retrieval Systems
+- ML Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+- Comment Translator — AST-based VS Code extension with LLM-powered translation workflows
+- Student Dropout Prediction — multiclass machine learning classification
+- More AI/ML projects in progress
+
+## Tech
+Python · SQL · TypeScript · JavaScript · scikit-learn · pandas · NumPy · Node.js · Express · PostgreSQL · MongoDB
+
+## Links
+LinkedIn: linkedin.com/in/michaelzhao526
